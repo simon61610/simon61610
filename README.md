@@ -71,18 +71,6 @@
 - 額外經營的個人讀書心得部落格：[閱讀男孩的平行宇宙](https://medium.com/@snblog)  
 - 在程式學習路上，保持持續進步 🚀
 
----
-
-🌍 About Me (English)
-
-I’m Sheng-Wen, a career-switching Front-End Developer with a background in marketing, public relations, and bookstore operations. Since 2025, I have been dedicated to building solid programming fundamentals and hands-on project experience.
-
-I’m proficient in Vue.js, JavaScript, and CSS, with practical experience in PHP and MySQL integration. I also use Figma for UI design and am comfortable with Git version control for team collaboration.
-
-I have completed both independent and team projects — including leading a group project to develop an astronomy-themed e-commerce platform, where I was responsible for implementing shopping and event registration features, as well as coordinating the team’s development direction.
-
-I enjoy learning, problem-solving, and improving user experience. My short-term goal is to grow into a professional front-end developer, and my long-term ambition is to expand into full-stack development.
-
 <!--
 ---
 -->
