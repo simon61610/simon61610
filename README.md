@@ -67,9 +67,7 @@ Responsive Web Design (RWD) · Asynchronous JavaScript (AJAX) · Web API Integra
 - 完成個人專案：婚禮顧問公司網站  
 - 參與團體專題：Vue 3 + SASS 電商平台
 ### 學習中
-- 正在自學 TypeScript、Tailwind CSS  
-- 持續強化 **CSS / SCSS** 應用技巧  
-- 探索 **UI/UX 設計** 與 **前端最佳實踐**  
+- 正在自學 TypeScript
 
 ---
 
