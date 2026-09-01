@@ -1,94 +1,148 @@
 # 👋 Hi，我是聖文
 
-目前正積極尋找前端工程師職缺，期望將所學技術應用於實務開發。重視程式基礎與邏輯思維，並具備良好的學習力與協作精神。
+目前擔任 **前端工程師**，主要使用 **Vue.js、Nuxt、JavaScript、TypeScript** 進行企業系統開發與維護。
 
-近期專注於前端開發，熟悉 **Vue.js、JavaScript、CSS、SASS**，同時具備 **PHP、MySQL** 串接與 **AJAX** 實作經驗，並能使用 Figma 進行介面設計與版面規劃。
+目前參與金融保險相關系統開發，工作內容包含：
 
-在團隊專案中以 **PHP** 撰寫後端邏輯，搭配 **MySQL** 進行資料庫設計與串接，並實作 **AJAX** 資料交換，完成前後端整合流程。  
-具備獨立開發個人專案與團隊協作、 **Git** 版本控制經驗，實際參與需求討論、程式結構規劃與 RWD 優化。  
+- Vue / Nuxt 頁面與元件開發
+- RESTful API 串接與資料處理
+- 複雜表單與系統狀態處理
+- 既有功能維護與 Bug 排查
+- Legacy System 舊系統改版
+- Git 版本控制與團隊協作
+- 與 PM、後端工程師及使用者進行需求釐清
 
-樂於學習並持續提升技能，專注於解決問題與改善使用者體驗。  
-短期目標是成為專業前端工程師，並在實務專案中不斷累積經驗與深化專業。
+除了功能實作，也持續加強 **TypeScript、前端架構、程式品質與問題分析能力**。
 
 ---
 
-## 🔧 Skills & Tools
+## 🔧 Tech Stack
 
 ### Frontend
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff)
+![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?logo=nuxt&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff)
 
-### Backend & Database
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+- Vue 3 / Composition API
+- Nuxt
+- Pinia / Vue Router
+- RWD
+- Component-based Development
 
-### Tools & Design
+### API & Data
+
+- RESTful API Integration
+- HTTP Request / Response
+- Form Data Handling & Validation
+- API Error Handling
+- Frontend / Backend Data Integration
+
+### Tools
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
 ![SourceTree](https://img.shields.io/badge/-SourceTree-0052CC?logo=sourcetree&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
 
-### Collaboration & Project Management
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=fff)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=fff)
+- Git Branch / Merge / Rebase
+- Chrome DevTools
+- GitHub
+- SourceTree
+- Figma
 
-### Others
-Responsive Web Design (RWD) · Asynchronous JavaScript (AJAX) · Web API Integration · Relational Database Design (RDB)
+### Other Experience
+
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+
+曾於學習專案及既有系統中使用 jQuery、PHP、MySQL，具備基礎前後端整合經驗。
+
+---
+
+## 💼 Professional Experience
+
+### 🚢 海上保險系統
+
+**Nuxt 3 / Vue 3 / JavaScript / TypeScript / RESTful API / Git**
+
+參與金融保險企業系統開發與維護，主要負責：
+
+- 報價、要保、保單等前端功能開發
+- 複雜表單及巢狀資料處理
+- RESTful API 串接與資料轉換
+- 既有功能維護與 Bug 排查
+- 保險業務邏輯前端實作
+- 與 PM、後端工程師及使用者進行需求確認
+
+---
+
+### 🔄 保戶網站現代化改版
+
+**JSP / jQuery → Vue / Nuxt**
+
+參與既有保戶網站架構現代化改版：
+
+- 閱讀並分析既有 JSP / JavaScript / jQuery 程式碼
+- 理解原系統流程後重新以 Vue / Nuxt 實作
+- 將既有頁面拆分為元件化架構
+- 串接既有後端服務
+- 處理改版過程中的相容性問題與 Bug
+- 維持新舊版本主要功能與操作流程一致
 
 ---
 
 ## 📂 Projects
 
-🎉 **個人專案**  
-[Ever & Always | 婚禮顧問公司網站](https://simon61610.github.io/everalways-static-site)  
+### 🎉 Ever & Always｜婚禮顧問公司網站
 
-技術：HTML / CSS / JavaScript / RWD / jQuery  
-- 特色：完整獨立製作，涵蓋設計與 RWD 實作。
-- 成果：強化基礎前端能力，並培養獨立開發與版面設計能力，實際上線於 GitHub Pages，作為完整展示作品。
+🔗 [Live Demo](https://simon61610.github.io/everalways-static-site)
 
-👥 **團體專題**  
-[STAR-GRAVITY | 天文主題電商平台](https://tibamef2e.com/tjd102/g1)  
+**HTML / CSS / JavaScript / RWD / jQuery**
 
-技術：Vue 3 / Pinia / Router / SASS / Swiper / Axios / PHP / MySQL
-- 特色：擔任組長，規劃專案結構，主要負責商城購物流程、活動報名功能。
-- 成果：實作前後端整合與 API 串接，協助組員釐清方向並解決技術問題，確保專案如期完成。
-
-🚀 **個人開發**  
-持續規劃中，未來將建立完整作品集網站  
+獨立完成 UI 設計、RWD 切版與互動功能，並部署至 GitHub Pages。
 
 ---
 
-## 🎯 Learning & Journey
-- 2025.06 起投入程式學習，系統化學習 HTML、CSS、JavaScript
-### 已完成
-- 完成個人專案：婚禮顧問公司網站  
-- 參與團體專題：Vue 3 + SASS 電商平台
-### 學習中
-- 正在自學 TypeScript
+### 🌌 STAR-GRAVITY｜天文主題電商平台
+
+🔗 [Live Demo](https://tibamef2e.com/tjd102/g1)
+
+**Vue 3 / Pinia / Vue Router / SASS / Axios / PHP / MySQL**
+
+團體專題擔任組長，主要負責：
+
+- 商城購物流程
+- 活動報名功能
+- Vue 3 前端功能開發
+- API 串接與前後端整合
+- 協助團隊進行功能整合與問題排查
 
 ---
 
-## 📫 Contact Me
+## 🎯 Currently Focusing On
 
-- Email：[simon410379007@gmail.com](mailto:simon410379007@gmail.com)  
+- Vue / Nuxt 開發實務
+- TypeScript
+- JavaScript 核心概念
+- Frontend Architecture
+- Code Quality & Maintainability
+- API Integration & Debugging
+
+---
+
+## 📫 Contact
+
+- Email: [simon410379007@gmail.com](mailto:simon410379007@gmail.com)
+- GitHub: [github.com/simon61610](https://github.com/simon61610)
 
 ---
 
 ## 🌱 About Me
 
-- 熱愛閱讀，並於[閱讀男孩的平行宇宙](https://medium.com/@snblog)，持續分享書評與心得 📚  
-- 對前端開發充滿熱情，在程式學習路上，保持持續進步 🚀
-- 期望將技術應用於實務專案，在職場中不斷精進，逐步拓展全端開發能力
-
-<!--
----
--->
-
-<!--
-## 📊 GitHub Stats
-![Sheng-Wen's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=simon61610&show_icons=true&theme=radical&cache_seconds=86400)  
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simon61610&layout=compact&theme=radical&cache_seconds=86400) 
--->
+持續累積前端實務經驗，希望在 Vue / Nuxt、JavaScript 與 TypeScript 上建立更扎實的工程能力。
